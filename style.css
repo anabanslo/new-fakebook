@@ -1,0 +1,40 @@
+body {
+    background-image:
+    url("https://cdn.shopify.com/s/files/1/1079/0376/products/0YCB0A.jpg?v=1571299186");
+}
+
+h1 {
+    color: Yellow;
+}
+
+#search {
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+#search:hover {
+    width: 500px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.category {
+    font-family: Verdana;
+    margin-left: 10px;
+}
+
+.category strong {
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+img {
+  border: 6px double;
+  padding: 5px;
+}
+
+img:hover {
+  border: 6px yellow solid;
+}
